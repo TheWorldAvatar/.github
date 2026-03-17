@@ -14,7 +14,6 @@ The World Avatar represents information in a dynamic knowledge graph using techn
 ## Key Features ##
 
 Listed below are a number of the key technical features available within The World Avatar ecosystem. More information on these, and other features, can be found in their respective repositories.
-Most of TWA softwa
 
 **TWA Stack:**<br/>
 The knowledge graph and its agents are hosted using collections of containers. How to use them is explained in the [stack tools](https://github.com/TheWorldAvatar/stack) repository that most notably includes the [stack manager](https://github.com/TheWorldAvatar/stack/tree/main/stack-manager) and the [stack data uploader](https://github.com/TheWorldAvatar/stack/tree/main/stack-data-uploader).
